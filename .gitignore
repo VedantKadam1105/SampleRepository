@@ -1,0 +1,10 @@
+error.log
+*.log
+/dir/
+sub dir/
+static/
+commands.txt
+
+
+
+
